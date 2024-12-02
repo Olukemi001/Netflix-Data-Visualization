@@ -179,6 +179,9 @@ After you add the tag, click the Save button on the right side to save the chang
   - Top Release Years  
 
 ---
+# Note
+In jupyter Notebook, go to edit and clear output of all Cells for all the modules and run the **Main_Netflix.ipynb** to generate all the outputs.
+Also delete all the output  files to generate ne ones
 
 ## Conclusion  
 
