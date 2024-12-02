@@ -180,8 +180,25 @@ After you add the tag, click the Save button on the right side to save the chang
 
 ---
 # Note
-In jupyter Notebook, go to edit and clear output of all Cells for all the modules and run the **Main_Netflix.ipynb** to generate all the outputs.
-Also delete all the output  files to generate ne ones
+In jupyter Notebook, go to edit and clear output of all Cells for all the modules, also delete all the output  files to generate new ones:
+
+├── output_data_cleaning.ipynb            
+├── output_data_exploration.ipynb       
+├── output_data_preparation.ipynb         
+├── output_data_visualization.ipynb     
+├── Netflix_shows_movies      
+├── output_data_cleaning    
+├── output_data_preparation 
+├── output_data_exploration.ipynb
+├── output_data_visualization.ipynb
+├── Distribution of Content Type   
+├── Distribution of Ratings on Netflix              
+├── Most Watched Genres on Netflix
+├── Top 10 Countries Producing Netflix Content              
+└── Top 20 Release Years by Number of Titles
+
+Then run **Main_Netflix.ipynb** to generate all the outputs afresh.
+
 
 ## Conclusion  
 
