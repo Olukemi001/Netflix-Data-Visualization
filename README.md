@@ -186,16 +186,16 @@ In jupyter Notebook, go to edit and clear output of all Cells for all the module
 ├── output_data_exploration.ipynb       
 ├── output_data_preparation.ipynb         
 ├── output_data_visualization.ipynb     
-├── Netflix_shows_movies      
-├── output_data_cleaning    
-├── output_data_preparation 
-├── output_data_exploration.ipynb
-├── output_data_visualization.ipynb
-├── Distribution of Content Type   
-├── Distribution of Ratings on Netflix              
-├── Most Watched Genres on Netflix
-├── Top 10 Countries Producing Netflix Content              
-└── Top 20 Release Years by Number of Titles
+├── Netflix_shows_movies.csv      
+├── output_data_cleaning.csv  
+├── output_data_exploration.csv  
+├── output_data_preparation.csv
+├── Distribution of Content Type.png   
+├── Distribution of Ratings on Netflix.png                 
+├── Most Watched Genres on Netflix.png   
+├── Top 10 Countries Producing Netflix Content.png                 
+└── Top 20 Release Years by Number of Titles.png   
+
 
 Then run **Main_Netflix.ipynb** to generate all the outputs afresh.
 
